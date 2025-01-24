@@ -1,0 +1,17 @@
+ html {
+    /* background-color: #ffc600; */
+    font-size: 20px;
+    font-family: 'helvetica neue';
+}
+
+.container {
+    text-align: center;
+}
+
+.search {
+    text-align: center;
+}
+
+.suggestions ul,li {
+    list-style-type: none;
+}
